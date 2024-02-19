@@ -1,0 +1,42 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://assets/fonts/global_font_25.tres" type="DynamicFont" id=1]
+[ext_resource path="res://assets/images/EPIC HEROES VOL 1/EH V1 PORTRAITS/M_02_Alter.png" type="Texture" id=2]
+[ext_resource path="res://src/hud/thought_box.gd" type="Script" id=3]
+
+[node name="Thought" type="Node2D"]
+script = ExtResource( 3 )
+
+[node name="Panel" type="ColorRect" parent="."]
+margin_left = 1423.0
+margin_top = 23.0
+margin_right = 1981.0
+margin_bottom = 154.0
+color = Color( 0, 0, 0, 0.752941 )
+
+[node name="Portrait" type="TextureRect" parent="Panel"]
+margin_left = 1.0
+margin_top = 1.0
+margin_right = 131.0
+margin_bottom = 131.0
+texture = ExtResource( 2 )
+
+[node name="TimeBar" type="ColorRect" parent="Panel"]
+margin_left = 555.0
+margin_top = 122.0
+margin_right = 979.0
+margin_bottom = 126.0
+rect_rotation = 180.0
+color = Color( 0.309804, 0.113725, 0.109804, 1 )
+
+[node name="Label" type="Label" parent="Panel"]
+margin_left = 134.0
+margin_top = 25.0
+margin_right = 552.0
+margin_bottom = 101.0
+custom_fonts/font = ExtResource( 1 )
+text = "sdfgvsdgfs dgsdgsdgs dgsdgsdgs 
+dgsd gsdgsd 
+dsfsdfsdf efwef"
+
+[node name="Tween" type="Tween" parent="."]

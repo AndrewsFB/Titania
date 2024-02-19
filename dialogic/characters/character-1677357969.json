@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "The \"protagonist\"",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1677357969.json",
+	"mirror_portraits": false,
+	"name": "Dante",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://assets/images/EPIC HEROES VOL 1/EH V1 BUSTS/M_02.PNG"
+		}
+	],
+	"scale": 200,
+	"theme": ""
+}

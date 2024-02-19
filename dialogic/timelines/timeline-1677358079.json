@@ -1,0 +1,129 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677615559.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677615559.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Impressionante."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677357969.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677357969.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Quem é você?\nApareça e encare sua morte monstro!"
+		},
+		{
+			"character": "character-1677615559.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Monstro?\nVocê veio voando como um meteoro, pulou de cima de uma montanha e causou um abalo no solo.\nTudo isso sem sofrer um único arranhão...\nE eu sou o monstro?"
+		},
+		{
+			"character": "character-1677357969.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não te faças de idiota! Sou da tribo de [color=#A5EFAC]Titânia[/color], somos mestres na manipulação do [color=#A5EFAC]Ether[/color].\nBrincadeiras como essas não são nada para nós."
+		},
+		{
+			"character": "character-1677615559.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[color=#A5EFAC]Ether[/color]? É disso que estão chamando?"
+		},
+		{
+			"character": "character-1677357969.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Chega! Não voei até aqui pra ficar dialogando como um parvo! \nAPAREÇA E ME ENFRENTE!\nFarei com que todos vocês paguem pelo que fizeram com meu povo."
+		},
+		{
+			"character": "character-1677615559.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Então...\nSobre isso, preciso que entenda algo. Você está mal informado."
+		},
+		{
+			"character": "character-1677357969.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "APAREÇA MALDITA!"
+		},
+		{
+			"character": "character-1677615559.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Você está fora de si...\nVou esperar que esteja em condições de me ouvir."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1677615559.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "character-1677357969.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Não há onde se esconder.\nFuja o quanto quiser.\nTODOS NESTA ILHA SENTIRÃO O FIO DA MINHA ESPADA!\nFarei com que sintam a dor de cada uma das vidas que ceifaram sem misericórdia."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677358079.json",
+		"name": "intro"
+	}
+}

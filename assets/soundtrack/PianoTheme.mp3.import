@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/PianoTheme.mp3-06b3b96a020c492e993e21a85076c2fd.mp3str"
+
+[deps]
+
+source_file="res://assets/soundtrack/PianoTheme.mp3"
+dest_files=[ "res://.import/PianoTheme.mp3-06b3b96a020c492e993e21a85076c2fd.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

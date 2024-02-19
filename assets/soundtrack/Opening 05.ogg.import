@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Opening 05.ogg-c7bdf94af7b7415da6e0e418b03bdee3.oggstr"
+
+[deps]
+
+source_file="res://assets/soundtrack/Opening 05.ogg"
+dest_files=[ "res://.import/Opening 05.ogg-c7bdf94af7b7415da6e0e418b03bdee3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

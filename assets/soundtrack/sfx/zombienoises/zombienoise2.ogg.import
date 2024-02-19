@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/zombienoise2.ogg-ffe32d5d32583df1fe7b052c1bd34188.oggstr"
+
+[deps]
+
+source_file="res://assets/soundtrack/sfx/zombienoises/zombienoise2.ogg"
+dest_files=[ "res://.import/zombienoise2.ogg-ffe32d5d32583df1fe7b052c1bd34188.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
